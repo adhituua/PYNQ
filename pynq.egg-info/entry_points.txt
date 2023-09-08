@@ -1,0 +1,3 @@
+[console_scripts]
+start_pl_server.py = pynq.pl:_start_server
+stop_pl_server.py = pynq.pl:_stop_server

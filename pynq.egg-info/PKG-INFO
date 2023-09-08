@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pynq
+Version: 2.0
+Summary: Python for Xilinx package
+Home-page: https://github.com/Xilinx/PYNQ
+Download-URL: https://github.com/Xilinx/PYNQ
+Author: XilinxPythonProject
+Author-email: pynq_support@xilinx.com
+License-File: LICENSE
